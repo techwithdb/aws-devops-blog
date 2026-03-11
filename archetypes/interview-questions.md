@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 description: ""
 date: {{ .Date }}
-author: "CloudOps Hub"
+author: "DB"
 tags: []
 tool: ""       # aws | docker | kubernetes | jenkins | prometheus | grafana
 level: "All Levels"
